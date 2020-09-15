@@ -6,7 +6,7 @@
 ### Aplicativo desenvolvido em Flutter e Firebase contendo a administração do app [Lú Biju](https://github.com/julionery/lubiju-flutter-firebase).
 
 ### :bookmark_tabs: Funcionalidades: 
- - Sistema de Login/Cadastro E-mail e Senha
+ - Sistema de Login com E-mail e Senha
  - Cadastro das categorias, produtos, novidades, cupons e lojas
  - Acompanhamento dos usuários, pedidos e mensagens
  - Atualização dos status dos pedidos
