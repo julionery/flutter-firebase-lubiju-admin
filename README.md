@@ -15,8 +15,11 @@
 - [Flutter](https://flutter.dev/ "Flutter")
 - [Firebase](https://firebase.google.com/ "Firebase")
 
-### :globe_with_meridians: Autenticação :
+### :globe_with_meridians: Autenticação:
 - [Firebase Authentication](https://firebase.google.com/products/auth?hl=pt-br&gclid=Cj0KCQjwoPL2BRDxARIsAEMm9y8XhSHtYRrjL7OPk8hVPM_Qr0_xGwuc7-vYYIZ-VBIAQtphlU3LQlcaAoEAEALw_wcB)
+
+### :closed_lock_with_key: Segurança:
+- [Regras do Firebase](https://github.com/julionery/lubiju-admin-flutter-firebase/blob/master/firebase_rules.txt)
 
 ### :computer: Bibliotecas e ferramentas:
 - [Bloc Patern](http://flutterdevs.com/blog/bloc-pattern-in-flutter-part-1/)
